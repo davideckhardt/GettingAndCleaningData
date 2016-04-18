@@ -8,7 +8,7 @@ The data was sourced from this location:
   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The script to automate these steps is:
-  CleaningDataProj.R
+  run_analysis.R
 
 The steps to tidy the data were:   
 load and unzip => 
